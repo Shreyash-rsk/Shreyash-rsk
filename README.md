@@ -39,13 +39,13 @@ I am a passionate Data Science graduate with a Master's degree, skilled in **dat
 
 Here are some of the exciting projects I've worked on:
 
-- [**Olist E-commerce Platform**]([https://github.com/shreyashkhote/olist-ecommerce-platform](https://github.com/Shreyash-rsk/Olist-E-commerce-Platform-Analysis-/blob/main/README.md))  
+- [**Olist E-commerce Platform**](https://github.com/Shreyash-rsk/Olist-E-commerce-Platform-Analysis-/blob/main/README.md)  
   🛒 Built an analysis platform to understand key metrics of e-commerce sales data, providing actionable insights for decision-makers.
 
-- [**Prediction Model**]([https://github.com/shreyashkhote/prediction-model](https://github.com/Shreyash-rsk/Prediction-Model/blob/main/Prediction_Model_Code))  
+- [**Prediction Model**](https://github.com/Shreyash-rsk/Prediction-Model/blob/main/Prediction_Model_Code)  
   🔮 Developed a machine learning model to predict outcomes based on historical data, enhancing forecasting accuracy.
 
-- [**Sentiment Analysis**]([https://github.com/shreyashkhote/sentiment-analysis](https://github.com/Shreyash-rsk/Sentiment_Analysis/blob/main/README.md))  
+- [**Sentiment Analysis**](https://github.com/Shreyash-rsk/Sentiment_Analysis/blob/main/README.md)  
   💬 Implemented sentiment analysis using **Natural Language Processing (NLP)** to classify customer reviews into positive, neutral, or negative sentiments.
 
 ---
