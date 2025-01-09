@@ -1,4 +1,4 @@
-![big-data](https://github.com/Shreyash-rsk/Shreyash-rsk/blob/main/big-data-abstract-digital-background-futuristic-data-warehouse-big-data-concept-information-flows-technologies-future-3d-render_120871-1010.avif)
+![big-data](https://raw.githubusercontent.com/Shreyash-rsk/Shreyash-rsk/main/big-data-abstract-digital-background-futuristic-data-warehouse-big-data-concept-information-flows-technologies-future-3d-render_120871-1010.avif)
 
 # 👋 Shreyash Rajesh Khote
 
