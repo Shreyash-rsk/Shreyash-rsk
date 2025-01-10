@@ -1,3 +1,5 @@
+![logo](https://github.com/Shreyash-rsk/Shreyash-rsk/blob/main/Linkedin_Cover_-_Data_Engineer_enf4cd.avif)
+
 # 👋 Shreyash Rajesh Khote
 
 **📍 Location:** Aurangabad, Maharashtra  
