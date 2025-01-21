@@ -75,5 +75,5 @@ Feel free to reach out to me via email: [shreyashkhote01@gmail.com](mailto:shrey
 
 ## 🔗 Connect with Me
 
-- **LinkedIn**: [Shreyash Khote](https://www.linkedin.com)  
+- **LinkedIn**: [shreyashkhote01](https://www.linkedin.com/shreyashkhote01)  
 - **GitHub**: [Shreyash-rsk](https://github.com/Shreyash-rsk)
