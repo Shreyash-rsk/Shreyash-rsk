@@ -33,7 +33,7 @@ I am a passionate Data Science graduate with a Master's degree, skilled in **dat
 - **Data Management**: Data Warehousing, ETL, Data Pipeline, Data Lake
 - **Version Control**: Git, GitHub 🧑‍💻
 - **Tools & Platforms**: Visual Studio Code, Linux Ubuntu 🐧
-- **Soft Skills**: Teamwork 🤝, Collaboration 🤗, Communication 🗣, Time Management ⏰, Planning 📅
+- **Soft Skills**: Teamwork, Collaboration, Communication, Time Management, Planning
 
 ---
 
